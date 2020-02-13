@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.zombieshark3d.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "F:\\Unity Projects\\ZombieShark3D\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "ZombieShark3D [Testing]"
+        }
+      }
+    }
+  ]
+}
